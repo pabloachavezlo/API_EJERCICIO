@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: var(---color3);
+    color: var(---color2);
+}
+
+:root {
+    ---color1: black;
+    ---color2: white;
+    ---color3: rgb(16, 6, 105);
+    ---color4: rgb(3, 4, 60);
+    ---color5: rgb(62, 64, 76);
+    ---color6: rgb(92, 88, 88);
+}
