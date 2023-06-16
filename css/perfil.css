@@ -1,0 +1,52 @@
+.perfil_de_usuario {
+    background-color: rgb(213, 236, 236);
+}
+
+
+
+.subdivision {
+    margin-bottom: 2rem;
+}
+
+
+.color_fondo {
+    background-color: rgb(208, 201, 201);
+    height: 15rem;
+}
+
+
+
+.div00 {
+    display: flex;
+}
+.div00 > img {
+    height: 8rem;
+    border-radius: 4rem;
+    box-shadow: 0rem 0.6rem 0.3rem black;
+    margin: 1rem 3rem;
+    position: absolute;
+    top: 12.5rem;
+}
+
+
+
+.logs00 {
+    display: block;
+    padding: 0.7rem 2rem;
+    background-color: aqua;
+    margin: auto;
+}
+.logs00 > img {
+    height: 3rem;
+}
+.logs00 > .img01 {
+    margin: 0rem 5rem;
+}
+
+
+
+.div01 {
+    margin-top: 1.5rem;
+    margin-left: 0.5rem;
+    color: black;
+}

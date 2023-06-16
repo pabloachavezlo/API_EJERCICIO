@@ -14,7 +14,7 @@ function cargar_contenido(data){
       item.classList.add("content")  
       item.innerHTML = 
       `
-      <h1>Título tweet: </h1>
+      <h1>Título tweets: </h1>
       <h3>${post.title}</h3>
       <h1>Contenido: </h1>
       <p>${post.body}</p>
